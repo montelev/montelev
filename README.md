@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @montelev
 - 👀 I’m interested in ...coding and server type stuff.
-- 🌱 I’m currently learning ...javascript
+- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
